@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.4fab48b3.css",
-    "main.js": "/react/static/js/main.9c449998.js",
+    "main.css": "/react/static/css/main.0aef23fb.css",
+    "main.js": "/react/static/js/main.ea1abb4d.js",
     "static/media/chrain3.jpg": "/react/static/media/chrain3.a0a1c5ed2074d9b16451.jpg",
     "static/media/code2.jpg": "/react/static/media/code2.1e5541f98c441bbadf30.jpg",
     "static/media/lines.mp4": "/react/static/media/lines.0b9f798fe6c50714eaa0.mp4",
@@ -18,11 +18,11 @@
     "static/media/linkedin-black.jpg": "/react/static/media/linkedin-black.887dfab47bec7232e618.jpg",
     "static/media/email-black.jpg": "/react/static/media/email-black.17665cde005da8f2039f.jpg",
     "index.html": "/react/index.html",
-    "main.4fab48b3.css.map": "/react/static/css/main.4fab48b3.css.map",
-    "main.9c449998.js.map": "/react/static/js/main.9c449998.js.map"
+    "main.0aef23fb.css.map": "/react/static/css/main.0aef23fb.css.map",
+    "main.ea1abb4d.js.map": "/react/static/js/main.ea1abb4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fab48b3.css",
-    "static/js/main.9c449998.js"
+    "static/css/main.0aef23fb.css",
+    "static/js/main.ea1abb4d.js"
   ]
 }
