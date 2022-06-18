@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/natebake-react.github.io/static/css/main.4fab48b3.css",
-    "main.js": "/natebake-react.github.io/static/js/main.a6195204.js",
-    "static/media/chrain3.jpg": "/natebake-react.github.io/static/media/chrain3.a0a1c5ed2074d9b16451.jpg",
-    "static/media/code2.jpg": "/natebake-react.github.io/static/media/code2.1e5541f98c441bbadf30.jpg",
-    "static/media/lines.mp4": "/natebake-react.github.io/static/media/lines.0b9f798fe6c50714eaa0.mp4",
-    "static/media/dots.mp4": "/natebake-react.github.io/static/media/dots.398b14752fa4e2db77a1.mp4",
-    "static/media/jungle20.jpg": "/natebake-react.github.io/static/media/jungle20.db2dd6e84c82fc90ed39.jpg",
-    "static/media/resume.pdf": "/natebake-react.github.io/static/media/resume.a8d784dd2b79e4d57edc.pdf",
-    "static/media/keyboard.jpg": "/natebake-react.github.io/static/media/keyboard.a554df18e0af4181dedf.jpg",
-    "static/media/me.jpg": "/natebake-react.github.io/static/media/me.1ab12bedcf27f1bead50.jpg",
-    "static/media/me_vertical.jpg": "/natebake-react.github.io/static/media/me_vertical.d5ebd0eb13baccfc6f2f.jpg",
-    "static/media/switches.jpg": "/natebake-react.github.io/static/media/switches.3e87e7005082a5e2d0cf.jpg",
-    "static/media/black-keys.jpg": "/natebake-react.github.io/static/media/black-keys.5d5e05f64f156e869a05.jpg",
-    "static/media/linkedin.jpg": "/natebake-react.github.io/static/media/linkedin.24a5c6149aca15132817.jpg",
-    "static/media/email.jpg": "/natebake-react.github.io/static/media/email.ba2580d483831bd25b5a.jpg",
-    "static/media/linkedin-black.jpg": "/natebake-react.github.io/static/media/linkedin-black.887dfab47bec7232e618.jpg",
-    "static/media/email-black.jpg": "/natebake-react.github.io/static/media/email-black.17665cde005da8f2039f.jpg",
-    "index.html": "/natebake-react.github.io/index.html",
-    "main.4fab48b3.css.map": "/natebake-react.github.io/static/css/main.4fab48b3.css.map",
-    "main.a6195204.js.map": "/natebake-react.github.io/static/js/main.a6195204.js.map"
+    "main.css": "/react/static/css/main.4fab48b3.css",
+    "main.js": "/react/static/js/main.8d7d2ee8.js",
+    "static/media/chrain3.jpg": "/react/static/media/chrain3.a0a1c5ed2074d9b16451.jpg",
+    "static/media/code2.jpg": "/react/static/media/code2.1e5541f98c441bbadf30.jpg",
+    "static/media/lines.mp4": "/react/static/media/lines.0b9f798fe6c50714eaa0.mp4",
+    "static/media/dots.mp4": "/react/static/media/dots.398b14752fa4e2db77a1.mp4",
+    "static/media/jungle20.jpg": "/react/static/media/jungle20.db2dd6e84c82fc90ed39.jpg",
+    "static/media/resume.pdf": "/react/static/media/resume.a8d784dd2b79e4d57edc.pdf",
+    "static/media/keyboard.jpg": "/react/static/media/keyboard.a554df18e0af4181dedf.jpg",
+    "static/media/me.jpg": "/react/static/media/me.1ab12bedcf27f1bead50.jpg",
+    "static/media/me_vertical.jpg": "/react/static/media/me_vertical.d5ebd0eb13baccfc6f2f.jpg",
+    "static/media/switches.jpg": "/react/static/media/switches.3e87e7005082a5e2d0cf.jpg",
+    "static/media/black-keys.jpg": "/react/static/media/black-keys.5d5e05f64f156e869a05.jpg",
+    "static/media/linkedin.jpg": "/react/static/media/linkedin.24a5c6149aca15132817.jpg",
+    "static/media/email.jpg": "/react/static/media/email.ba2580d483831bd25b5a.jpg",
+    "static/media/linkedin-black.jpg": "/react/static/media/linkedin-black.887dfab47bec7232e618.jpg",
+    "static/media/email-black.jpg": "/react/static/media/email-black.17665cde005da8f2039f.jpg",
+    "index.html": "/react/index.html",
+    "main.4fab48b3.css.map": "/react/static/css/main.4fab48b3.css.map",
+    "main.8d7d2ee8.js.map": "/react/static/js/main.8d7d2ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.4fab48b3.css",
-    "static/js/main.a6195204.js"
+    "static/js/main.8d7d2ee8.js"
   ]
 }
