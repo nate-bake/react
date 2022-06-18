@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react/static/css/main.479531df.css",
-    "main.js": "/react/static/js/main.ea1abb4d.js",
-    "static/media/chrain3.jpg": "/react/static/media/chrain3.a0a1c5ed2074d9b16451.jpg",
-    "static/media/code2.jpg": "/react/static/media/code2.1e5541f98c441bbadf30.jpg",
+    "main.js": "/react/static/js/main.64c513eb.js",
     "static/media/lines.mp4": "/react/static/media/lines.0b9f798fe6c50714eaa0.mp4",
     "static/media/dots.mp4": "/react/static/media/dots.398b14752fa4e2db77a1.mp4",
-    "static/media/jungle20.jpg": "/react/static/media/jungle20.db2dd6e84c82fc90ed39.jpg",
+    "static/media/code2-min.jpg": "/react/static/media/code2-min.87d2d8d53a5f5c1da839.jpg",
+    "static/media/chrain3-min.jpg": "/react/static/media/chrain3-min.88ca2952273fa2642e1e.jpg",
     "static/media/resume.pdf": "/react/static/media/resume.a8d784dd2b79e4d57edc.pdf",
     "static/media/keyboard.jpg": "/react/static/media/keyboard.a554df18e0af4181dedf.jpg",
+    "static/media/jungle20-min.jpg": "/react/static/media/jungle20-min.6eb0c9adf8f1b40f721c.jpg",
     "static/media/me.jpg": "/react/static/media/me.1ab12bedcf27f1bead50.jpg",
     "static/media/me_vertical.jpg": "/react/static/media/me_vertical.d5ebd0eb13baccfc6f2f.jpg",
     "static/media/switches.jpg": "/react/static/media/switches.3e87e7005082a5e2d0cf.jpg",
@@ -19,10 +19,10 @@
     "static/media/email-black.jpg": "/react/static/media/email-black.17665cde005da8f2039f.jpg",
     "index.html": "/react/index.html",
     "main.479531df.css.map": "/react/static/css/main.479531df.css.map",
-    "main.ea1abb4d.js.map": "/react/static/js/main.ea1abb4d.js.map"
+    "main.64c513eb.js.map": "/react/static/js/main.64c513eb.js.map"
   },
   "entrypoints": [
     "static/css/main.479531df.css",
-    "static/js/main.ea1abb4d.js"
+    "static/js/main.64c513eb.js"
   ]
 }
